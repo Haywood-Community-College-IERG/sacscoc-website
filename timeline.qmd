@@ -1,0 +1,173 @@
+---
+title: "Timeline"
+---
+
+# SACSCOC Reaffirmation Timeline
+
+This timeline is based on **Track A** (undergraduate institutions). Institutions offering graduate degrees follow Track B with different dates.
+
+::: {.callout-note}
+## Important Timeline Note
+This timeline is calibrated to a **June 2029 Board Action** date. Orientation occurs in December 2026, 30 months before board action.
+:::
+
+## Quick Reference: Key Dates
+
+| Milestone | Date | Description |
+|-----------|------|-------------|
+| Orientation Meeting | December 2026 | Required attendance for Leadership Team |
+| Compliance Certification Due | March 2028 | Submission to SACSCOC |
+| Off-Site Review | May 2028 | Peer evaluator review |
+| QEP and Focused Report Due | July-October 2028 | 6 weeks before on-site |
+| On-Site Visit | September–November 2028 | Campus visit by committee |
+| Response Due | May 2029 | 5 months after visit |
+| Board Action | June 2029 | SACSCOC Board decision |
+
+---
+
+## Detailed Timeline by Phase
+
+### Phase 1: Preparation (June 2026 – June 2027)
+
+::: {.timeline-item}
+**Form Leadership Team** (June 2026)
+
+- Assign Accreditation Liaison
+- Include representatives from academic affairs, student services, finance, IE
+- Limit to 5 members for Orientation Meeting attendance
+:::
+
+::: {.timeline-item}
+**Review Standards and Handbook** (July 2026)
+
+- Review 2024 Principles of Accreditation
+- Review Handbook for Reaffirmation
+- Conduct gap analysis
+:::
+
+::: {.timeline-item}
+**Begin Compliance Certification Writing** (December 2026)
+
+- Assign Standard owners
+- Establish documentation system
+- Begin drafting narratives
+:::
+
+### Phase 2: Orientation and Drafting (December 2026 – December 2027)
+
+::: {.timeline-item}
+**Attend SACSCOC Orientation Meeting** (December 2026)
+
+- Required: Leadership Team attendance
+- Submit Institutional Summary Form
+:::
+
+::: {.timeline-item}
+**Identify QEP Topic** (February 2027)
+
+- Topic must emerge from ongoing planning
+- Form QEP Development Committee
+- Begin broad-based involvement
+:::
+
+::: {.timeline-item}
+**Complete Draft Compliance Certification** (September 2027)
+
+- Prioritize Core Requirements
+- Complete all Standard narratives
+- Collect supporting evidence
+:::
+
+### Phase 3: Compliance Certification Submission (December 2027 – March 2028)
+
+::: {.timeline-item}
+**Final Review and Submission** (March 2028)
+
+- CEO review and approval
+- Update Institutional Summary Form
+- Submit Compliance Certification
+:::
+
+### Phase 4: Off-Site Review (May 2028 – July 2028)
+
+::: {.timeline-item}
+**Off-Site Review Conducted** (May 2028)
+
+- Peer evaluators review Compliance Certification
+- Receive Off-Site Report
+:::
+
+::: {.timeline-item}
+**Prepare Focused Report** (July 2028)
+
+- Address Off-Site Committee findings
+- Prepare additional evidence as needed
+:::
+
+### Phase 5: QEP and On-Site Preparation (July 2028 – October 2028)
+
+::: {.timeline-item}
+**Finalize and Submit QEP** (July-October 2028)
+
+- Maximum 75 pages + 25 pages appendices
+- Submit with Focused Report
+- Due 6 weeks before on-site visit
+:::
+
+::: {.timeline-item}
+**Prepare for On-Site Visit** (October–November 2028)
+
+- Form hosting committee
+- Reserve hotel and workroom
+- Plan interview schedule
+- Campus awareness campaign
+:::
+
+### Phase 6: On-Site Visit (September–November 2028)
+
+::: {.timeline-item}
+**On-Site Visit** (September–November 2028)
+
+- 2.5-3 day campus visit
+- Interviews with campus constituents
+- QEP presentation
+- Exit conference
+:::
+
+### Phase 7: Response and Board Action (May 2029 – June 2029)
+
+::: {.timeline-item}
+**Submit Response** (May 2029)
+
+- Due 5 months after on-site visit
+- Address any remaining concerns
+:::
+
+::: {.timeline-item .completed}
+**SACSCOC Board Action** (June 2029)
+
+- Receive official notification
+- Communicate results
+:::
+
+---
+
+## Core Requirements Priority
+
+The following Core Requirements should be prioritized for early completion:
+
+| Priority | Standard | Title |
+|----------|----------|-------|
+| 1 | 2.1 | Institutional Mission |
+| 2 | 7.1 | Institutional Planning |
+| 3 | 8.1 | Student Achievement |
+| 4 | 6.1 | Full-time Faculty |
+| 5 | 9.1-9.3 | Program Content, Length, General Education |
+| 6 | 13.1-13.2 | Financial Resources and Documents |
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`

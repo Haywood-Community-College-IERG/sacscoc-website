@@ -1,0 +1,131 @@
+---
+title: "Step 3: Compliance Certification"
+---
+
+# Step 3: Compliance Certification
+
+The Compliance Certification is the institution's self-assessment demonstrating compliance with all SACSCOC Standards.
+
+## Timeline
+
+**When:** Due T-15 months (March of Year 2 for Track A)
+
+## Purpose
+
+The Compliance Certification:
+
+- Documents institutional compliance with all Standards
+- Provides evidence supporting compliance claims
+- Identifies any areas of non-compliance (with plans for remediation)
+- Serves as the foundation for the Off-Site Review
+
+## Structure
+
+### Standards Addressed
+
+The Compliance Certification must address:
+
+- **Core Requirements** (highest priority)
+- **Comprehensive Standards**
+- **Federal Requirements**
+
+### Narrative Format
+
+Each Standard narrative typically includes:
+
+1. **Standard statement** (quoted)
+2. **Compliance judgment** (Compliant/Non-Compliant/Not Applicable)
+3. **Narrative** explaining compliance
+4. **Evidence list** with supporting documentation
+5. **Distance learning statement** (where applicable)
+
+## Writing Process
+
+::: {.callout-tip}
+## Best Practices for Writing
+
+- **Be clear and concise** — Reviewers read many reports
+- **Lead with evidence** — Don't just claim compliance; prove it
+- **Use consistent format** — Same structure for each Standard
+- **Link documents** — Ensure all evidence is accessible
+- **Address distance learning** — For applicable Standards
+:::
+
+### Assigning Responsibility
+
+| Section | Typical Owner |
+|---------|---------------|
+| Section 2 (Mission) | President's Office / Strategic Planning |
+| Section 3 (Eligibility) | Accreditation Liaison |
+| Section 4 (Board) | President's Office / Board Secretary |
+| Section 5 (Administration) | President's Office / HR |
+| Section 6 (Faculty) | Academic Affairs |
+| Section 7 (Planning) | IE Office |
+| Section 8 (Achievement) | IE Office / Academic Affairs |
+| Section 9 (Programs) | Academic Affairs |
+| Section 10 (Policies) | Academic Affairs / Student Services |
+| Section 11 (Library) | Library Director |
+| Section 12 (Student Services) | Student Services |
+| Section 13 (Financial) | VP Finance |
+| Section 14 (Transparency) | Accreditation Liaison |
+
+## Evidence Requirements
+
+### Types of Evidence
+
+- Policies and procedures
+- Meeting minutes
+- Assessment reports
+- Data and statistics
+- Publications (catalog, website)
+- Personnel records (credentials, evaluations)
+- Financial documents (audits, budgets)
+
+### Organization
+
+::: {.callout-important}
+## Evidence Organization
+
+- Label clearly by Standard number
+- Ensure all links work
+- Use consistent naming conventions
+- Keep versions current
+- Make accessible to reviewers
+:::
+
+## Faculty Roster Form
+
+A critical component for Section 6:
+
+- Lists all faculty by program
+- Documents credentials
+- Shows teaching assignments
+- Includes alternative qualification justifications
+
+## Submission
+
+### Before Submitting
+
+- [ ] All Standards addressed
+- [ ] All evidence linked and accessible
+- [ ] Faculty Roster Form complete
+- [ ] Institutional Summary Form updated
+- [ ] CEO review and approval
+- [ ] Final proofreading
+
+### Submission Process
+
+- Electronic submission through SACSCOC system
+- Deadline: March (Track A)
+- Keep copies of all submitted materials
+
+## Next Step
+
+After submission, proceed to [Step 4: Off-Site Review](4_offsite_review.qmd).
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

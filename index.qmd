@@ -1,0 +1,66 @@
+# SACSCOC Reaffirmation Resources {.unnumbered}
+
+Welcome to the SACSCOC Reaffirmation Resource site. This site is designed to support institutions preparing for SACSCOC reaffirmation by providing comprehensive guidance on:
+
+- **Timeline and Process** — Understanding the reaffirmation process and key deadlines
+- **Standards Guidance** — How to respond to each SACSCOC Standard
+- **Core Requirements** — Special focus on the most critical standards
+- **Practical Resources** — Templates, checklists, and best practices
+
+## Quick Links
+
+::: {.callout-tip}
+## Getting Started
+
+1. Review the [Timeline](timeline.qmd) to understand the reaffirmation schedule
+2. Explore the [Process Steps](steps/1_leadership_team.qmd) to see the journey from start to finish
+3. Use the [Standards Index](standards/index.qmd) to find guidance on specific standards
+4. Check [Resources](resources.qmd) for helpful tools and references
+:::
+
+## About SACSCOC Reaffirmation
+
+The Southern Association of Colleges and Schools Commission on Colleges (SACSCOC) is the regional accreditor for degree-granting higher education institutions in the Southern states. Reaffirmation of accreditation occurs on a **10-year cycle** and involves:
+
+1. **Compliance Certification** — Self-assessment against all SACSCOC Standards
+2. **Quality Enhancement Plan (QEP)** — A focused initiative to improve student learning
+3. **Off-Site Review** — Peer evaluation of the Compliance Certification
+4. **On-Site Visit** — Peer evaluators visit campus to verify compliance
+5. **Board Action** — SACSCOC Board of Trustees determines accreditation status
+
+## Core Requirements
+
+SACSCOC designates certain standards as **Core Requirements** — the most fundamental aspects of institutional quality. These are marked throughout this site with a special indicator and require the strongest evidence.
+
+::: {.callout-important}
+## Core Requirements at a Glance
+
+The 13 Core Requirements addressed in the Compliance Certification are:
+
+- **2.1** Institutional Mission
+- **3.1.a-c** Basic Eligibility (Degree Authority, Coursework, Continuous Operation)
+- **4.1** Governing Board Characteristics
+- **5.1** Chief Executive Officer
+- **6.1** Full-time Faculty
+- **7.1** Institutional Planning
+- **8.1** Student Achievement
+- **9.1-9.3** Program Content, Length, and General Education
+- **11.1** Library and Learning Resources
+- **12.1** Student Support Services
+- **13.1-13.2** Financial Resources and Documents
+:::
+
+## Using This Site
+
+Use the navigation menu above to explore:
+
+- **Timeline** — Key dates and milestones
+- **Process Steps** — Detailed guidance for each phase
+- **Standards** — Organized by Section with Core Requirements highlighted
+- **Resources** — External links and supporting materials
+- **About** — Information about this resource
+- **Suggesting Changes** — How to provide feedback
+
+---
+
+*This site is designed as a resource for NC community colleges preparing for SACSCOC reaffirmation. Content should be adapted to your institution's specific context and needs.*

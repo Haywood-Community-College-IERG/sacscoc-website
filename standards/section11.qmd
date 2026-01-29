@@ -1,0 +1,107 @@
+---
+title: "Section 11: Library and Learning/Information Resources"
+---
+
+# Section 11: Library and Learning/Information Resources
+
+Section 11 addresses library resources, services, and staffing.
+
+## Standard 11.1 — Library and Learning/Information Resources [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides library and learning resources adequate for its programs and services.
+
+### Typical Evidence Types
+
+- Collection statistics (print, electronic, databases)
+- Library hours and access information
+- Resource acquisition process
+- Faculty input into collection development
+- Resource usage data
+
+### Suggested Owners
+
+- Library Director
+- Chief Academic Officer
+
+### Common Pitfalls / Weak Evidence
+
+- Resources don't match program needs
+- Limited access hours for student populations
+- No faculty involvement in collection development
+- Outdated or insufficient electronic resources
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges have access to resources through the NC Community College Library Services (CCLINC consortium) and NC LIVE. Document:
+
+- CCLINC membership benefits
+- NC LIVE database access
+- Consortium resource sharing
+:::
+
+---
+
+## Standard 11.2 — Library/Information Staff
+
+### What SACSCOC is Trying to Ensure
+
+Staff administering library/information services are qualified.
+
+### Typical Evidence Types
+
+- Staff roster with credentials
+- Position descriptions
+- Professional development participation
+
+### Common Pitfalls / Weak Evidence
+
+- Insufficient staffing for services offered
+- Staff credentials not documented
+- Limited professional development
+
+---
+
+## Standard 11.3 — Library/Information Access
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides access to resources and services that support instruction and learning regardless of location.
+
+### Typical Evidence Types
+
+- Remote access documentation
+- Services for distance learners
+- Hours of operation
+- Information literacy instruction
+- Interlibrary loan services
+
+### Suggested Owners
+
+- Library Director
+- Distance Education Coordinator
+
+### Common Pitfalls / Weak Evidence
+
+- Distance students have limited access
+- No information literacy program
+- Limited hours for working students
+
+---
+
+## Reflective Prompts
+
+- How do library resources align with program needs?
+- What evidence shows effective information literacy instruction?
+- How are off-campus and online student needs met?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

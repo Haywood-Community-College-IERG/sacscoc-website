@@ -1,0 +1,177 @@
+---
+title: "Section 10: Educational Policies, Procedures, and Practices"
+---
+
+# Section 10: Educational Policies, Procedures, and Practices
+
+Section 10 addresses admissions, academic, and student policies.
+
+## Standard 10.1 — Academic Policies
+
+### What SACSCOC is Trying to Ensure
+
+The institution publishes academic policies including admission, progression, grading, and completion requirements.
+
+### Typical Evidence Types
+
+- College catalog
+- Website academic policies
+- Student handbook
+- Admissions materials
+
+### Suggested Owners
+
+- Registrar
+- Admissions Director
+- Chief Academic Officer
+
+---
+
+## Standard 10.2 — Public Information
+
+### What SACSCOC is Trying to Ensure
+
+Current and prospective students have access to accurate information about the institution, its programs, costs, and policies.
+
+### Typical Evidence Types
+
+- Website content audit
+- Catalog
+- Consumer information
+- Cost of attendance information
+
+### Common Pitfalls / Weak Evidence
+
+- Outdated website information
+- Inconsistent information across publications
+- Missing required consumer disclosures
+
+---
+
+## Standard 10.3 — Archived Policies
+
+### What SACSCOC is Trying to Ensure
+
+Policies affecting students are archived for historical reference.
+
+### Typical Evidence Types
+
+- Archived catalog system
+- Policy archive procedures
+- Evidence of accessibility
+
+---
+
+## Standard 10.4 — Academic Governance
+
+### What SACSCOC is Trying to Ensure
+
+Faculty have primary responsibility for curriculum and academic matters.
+
+### Typical Evidence Types
+
+- Curriculum committee composition
+- Faculty governance documentation
+- Examples of curriculum approval process
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges submit curriculum changes through the SBCC approval process. Document:
+
+- Local curriculum committee process
+- State approval process for new programs
+- Combined Course Library requirements
+:::
+
+---
+
+## Standard 10.5 — Admissions Policies
+
+### What SACSCOC is Trying to Ensure
+
+Admissions policies are consistent with institutional mission and published.
+
+### Typical Evidence Types
+
+- Admissions policies
+- Application requirements
+- Program-specific requirements
+
+---
+
+## Standard 10.6 — Distance Education/Correspondence
+
+### What SACSCOC is Trying to Ensure
+
+If offering distance education, appropriate policies exist for delivery, oversight, and student support.
+
+### Typical Evidence Types
+
+- Distance education policies
+- Learning management system documentation
+- Student verification procedures
+- Distance education support services
+
+---
+
+## Standard 10.7 — Policies for Awarding Credit
+
+### What SACSCOC is Trying to Ensure
+
+Policies exist for awarding academic credit consistently.
+
+### Typical Evidence Types
+
+- Credit hour policy
+- Transfer credit policy
+- Credit for prior learning policy
+
+---
+
+## Standard 10.8 — Evaluating and Awarding Credit
+
+### What SACSCOC is Trying to Ensure
+
+Credit evaluation follows established policies consistently.
+
+### Typical Evidence Types
+
+- Transcript evaluation procedures
+- Credit acceptance guidelines
+- Articulation agreements
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges operate under the Comprehensive Articulation Agreement (CAA) for transfer to UNC System institutions. Document:
+
+- CAA implementation
+- Transfer equivalency processes
+- Articulation agreements with other institutions
+:::
+
+---
+
+## Standard 10.9 — Cooperative Academic Arrangements
+
+### What SACSCOC is Trying to Ensure
+
+Any cooperative academic arrangements maintain quality and appropriate oversight.
+
+### Typical Evidence Types
+
+- Consortium agreements
+- Contractual arrangements
+- Oversight documentation
+
+---
+
+## Reflective Prompts
+
+- Are all academic policies easily accessible to students?
+- How do we ensure policy consistency across formats (web, catalog, etc.)?
+- What processes verify transfer credit evaluation consistency?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

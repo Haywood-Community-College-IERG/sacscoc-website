@@ -1,0 +1,100 @@
+---
+title: "Section 3: Basic Eligibility Standard"
+---
+
+# Section 3: Basic Eligibility Standard
+
+Section 3 contains three Core Requirements establishing basic eligibility for SACSCOC membership.
+
+## Standard 3.1.a — Degree-Granting Authority [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution has legal authority to grant degrees as demonstrated by authorization from the appropriate governmental agency.
+
+### Typical Evidence Types
+
+- State authorization documents
+- Charter or enabling legislation
+- NC Community College System authorization
+- SBCC approval for programs
+
+### Suggested Owners
+
+- President's Office
+- Accreditation Liaison
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges receive degree-granting authority through the State Board of Community Colleges (SBCC) and NC General Statutes (Chapter 115D). Include:
+
+- Institutional charter or enabling legislation
+- Current State Board authorization
+- Relevant NC General Statute citations
+:::
+
+---
+
+## Standard 3.1.b — Coursework for Degrees [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides instruction for all coursework required for at least one degree program.
+
+### Typical Evidence Types
+
+- Program listings from catalog
+- Course schedules showing offerings
+- Documentation of courses taught by the institution
+
+### Suggested Owners
+
+- VP Academic Affairs
+- Registrar
+
+### Common Pitfalls / Weak Evidence
+
+- Cannot clearly demonstrate that core coursework is offered
+- Consortium or contractual arrangements unclear
+
+---
+
+## Standard 3.1.c — Continuous Operation [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution is in operation and has students enrolled in its degree programs.
+
+### Typical Evidence Types
+
+- Enrollment data (historical and current)
+- Graduation/completion data
+- Institutional Summary Form
+
+### Suggested Owners
+
+- Institutional Research/Effectiveness
+- Registrar
+
+### Common Pitfalls / Weak Evidence
+
+- Data gaps or inconsistencies in enrollment reporting
+- Unable to demonstrate continuous operation
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

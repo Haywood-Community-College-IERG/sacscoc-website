@@ -1,0 +1,106 @@
+---
+title: "Section 8: Student Achievement"
+---
+
+# Section 8: Student Achievement
+
+Section 8 addresses how institutions define, measure, and achieve student success.
+
+## Standard 8.1 — Student Achievement [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution identifies, evaluates, and publishes goals and outcomes for student achievement appropriate to its mission.
+
+### Typical Evidence Types
+
+- Published student achievement goals
+- Achievement data (graduation rates, retention, etc.)
+- Evidence of goal review and adjustment
+- Published outcomes information
+
+### Suggested Owners
+
+- President
+- Chief Academic Officer
+- Institutional Research
+- Student Services leadership
+
+### Common Pitfalls / Weak Evidence
+
+- Goals not clearly stated or published
+- Data not aligned with goals
+- No evidence of using data for improvement
+- Goals not appropriate for mission and student population
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges report Performance Measures to the System Office annually. These include:
+
+- Basic Skills Student Progress
+- GED Diploma Passing Rate
+- First Year Progression
+- Curriculum Student Completion
+- Licensure and Certification Passing Rate
+- College Transfer Performance
+- Workforce Credentials
+
+Document alignment between institutional goals and System measures.
+:::
+
+---
+
+## Standards 8.2.a-c — Student Outcomes
+
+### Standard 8.2.a — Academic Program Outcomes
+
+**What SACSCOC is Trying to Ensure:** Each academic program identifies expected learning outcomes and assesses their achievement.
+
+### Standard 8.2.b — General Education Outcomes
+
+**What SACSCOC is Trying to Ensure:** The institution has a general education component with defined competencies that are assessed.
+
+### Standard 8.2.c — Academic and Professional Competencies
+
+**What SACSCOC is Trying to Ensure:** Graduates demonstrate competencies for their degrees and readiness for career or continued education.
+
+### Typical Evidence Types for 8.2
+
+- Program learning outcomes (published)
+- General education outcomes
+- Assessment plans by program
+- Assessment results and analysis
+- Evidence of improvements based on assessment
+- Graduate success data (employment, licensure, transfer)
+
+### Suggested Owners
+
+- Academic Deans
+- Department Chairs
+- Program Directors
+- Assessment Coordinator
+
+### Common Pitfalls / Weak Evidence
+
+- Learning outcomes not clearly stated
+- Assessment happens but doesn't lead to change
+- General education outcomes not integrated
+- Missing data on graduate success
+
+---
+
+## Reflective Prompts
+
+- What student achievement goals are most relevant for our mission?
+- How do we ensure program assessment leads to actual improvements?
+- What do our disaggregated data tell us about equity in student outcomes?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

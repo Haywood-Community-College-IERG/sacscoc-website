@@ -1,0 +1,48 @@
+---
+title: "Suggesting Changes"
+---
+
+# Suggesting Changes
+
+You can suggest changes to this resource by contacting the site administrator or using your institution's feedback process.
+
+## Types of Feedback Welcome
+
+- **Corrections** — Errors in content or broken links
+- **Clarifications** — Areas that need more explanation
+- **Additions** — Topics that should be covered
+- **Examples** — Helpful practices from your institution
+- **Updates** — Changes to SACSCOC requirements or processes
+
+## How to Provide Feedback
+
+::: {.callout-tip}
+## Feedback Process
+
+1. **Identify the specific page** that needs updating
+2. **Describe the issue** clearly
+3. **Suggest the change** if you have a recommendation
+4. **Submit** through your institution's designated process
+:::
+
+## Feedback Form
+
+Please include the following information when suggesting changes:
+
+- **Page/Section:** Which page needs updating?
+- **Issue Type:** Correction / Clarification / Addition / Update
+- **Description:** What is the issue?
+- **Suggested Change:** What should it say instead?
+- **Source:** If applicable, what is the authoritative source?
+
+## Version Control
+
+This resource is maintained with version control to track changes over time. Major updates will be noted in the change log.
+
+## Contact
+
+For questions about this resource, contact your institutional Accreditation Liaison or the site administrator.
+
+---
+
+*This resource is a living document and will be updated as SACSCOC requirements change and as feedback is received.*

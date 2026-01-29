@@ -1,0 +1,148 @@
+---
+title: "Section 6: Faculty"
+---
+
+# Section 6: Faculty
+
+Section 6 addresses faculty qualifications, governance, and professional development.
+
+## Standard 6.1 — Full-time Faculty [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution employs an adequate number of full-time faculty to support its mission and programs.
+
+### Typical Evidence Types
+
+- Faculty roster with full-time/part-time status
+- Full-time faculty count by program/department
+- Student-to-faculty ratios
+- Analysis demonstrating adequacy
+
+### Suggested Owners
+
+- Chief Academic Officer
+- Department Chairs / Program Directors
+
+### Common Pitfalls / Weak Evidence
+
+- High reliance on part-time faculty without justification
+- Insufficient full-time faculty in certain programs
+- No clear methodology for determining adequacy
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges operate under SBCC policies regarding faculty staffing. Reference:
+
+- SBCC requirements for faculty ratios
+- State funding model implications
+- Curriculum vs. continuing education distinctions
+:::
+
+---
+
+## Standards 6.2.a-c — Faculty Qualifications
+
+### Standard 6.2.a — Credentials
+
+**What SACSCOC is Trying to Ensure:** Faculty teaching credit-bearing courses have appropriate academic credentials.
+
+**Key Requirements:**
+
+- **General Education:** Master's degree with 18 graduate semester hours in the discipline
+- **Associate-level Career/Technical:** Bachelor's degree in the field OR associate's plus demonstrated competencies
+- **Baccalaureate (if applicable):** Terminal degree or master's plus 18 graduate hours in discipline
+
+### Standard 6.2.b — Graduate Teaching Assistants
+
+**What SACSCOC is Trying to Ensure:** Graduate teaching assistants (if used) have appropriate preparation and supervision.
+
+*Note: Most community colleges do not use graduate teaching assistants. If your institution does not, state this clearly.*
+
+### Standard 6.2.c — Non-Degree Credential Instructors
+
+**What SACSCOC is Trying to Ensure:** Instructors in non-degree programs have appropriate credentials or demonstrated competence.
+
+### Typical Evidence Types for 6.2
+
+- Faculty roster with credentials for each course assignment
+- Transcripts on file for all faculty
+- Credential matrix showing qualifications
+- Alternative qualification justifications where needed
+- Supervision documentation for any GTAs
+
+### Common Pitfalls / Weak Evidence
+
+- Missing transcripts
+- Faculty teaching outside credentialed areas
+- Insufficient alternative qualification documentation
+- No credential verification process
+
+---
+
+## Standard 6.3 — Faculty Appointment and Evaluation
+
+### What SACSCOC is Trying to Ensure
+
+Policies and procedures for faculty appointment and evaluation are published and consistently applied.
+
+### Typical Evidence Types
+
+- Faculty handbook sections on appointment
+- Evaluation policies and forms
+- Completed evaluation examples (redacted)
+- Board policies on faculty
+
+---
+
+## Standard 6.4 — Academic Freedom
+
+### What SACSCOC is Trying to Ensure
+
+The institution publishes and follows a policy on academic freedom.
+
+### Typical Evidence Types
+
+- Academic freedom policy
+- Faculty handbook references
+- Board policy approval
+
+---
+
+## Standard 6.5 — Faculty Development
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides ongoing professional development for faculty.
+
+### Typical Evidence Types
+
+- Professional development policies
+- Funding allocations for development
+- Development program descriptions
+- Participation records
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges have access to System-level professional development through the NC Community College System Office. Document both:
+
+- Local professional development programs
+- System-level opportunities utilized
+:::
+
+---
+
+## Reflective Prompts
+
+- How do we ensure all faculty meet credential requirements before teaching?
+- What is our process for addressing credential gaps?
+- How do we balance full-time and part-time faculty appropriately?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

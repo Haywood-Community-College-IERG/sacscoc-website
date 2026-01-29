@@ -1,0 +1,125 @@
+---
+title: "Section 7: Institutional Planning and Effectiveness"
+---
+
+# Section 7: Institutional Planning and Effectiveness
+
+Section 7 addresses institutional planning processes and the use of data for continuous improvement.
+
+## Standard 7.1 — Institutional Planning [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution engages in ongoing, comprehensive, and integrated planning and evaluation processes.
+
+### Typical Evidence Types
+
+- Strategic plan (current)
+- Planning process documentation
+- Evidence of broad-based participation
+- Assessment results linked to planning
+- Resource allocation tied to planning
+
+### Suggested Owners
+
+- President
+- Institutional Effectiveness / Research Office
+- Planning Committee
+
+### Common Pitfalls / Weak Evidence
+
+- Planning exists but isn't integrated with operations
+- Limited evidence of broad-based participation
+- Plans not connected to resource allocation
+- No clear cycle or review process
+
+::: {.callout-note title="NC Considerations"}
+NC community college planning must align with both SBCC strategic priorities and local needs. Document:
+
+- How state-level priorities inform local planning
+- Alignment with System performance measures
+- Connection to annual institutional effectiveness reporting
+:::
+
+---
+
+## Standard 7.2 — Quality Enhancement Plan
+
+### What SACSCOC is Trying to Ensure
+
+The institution has a Quality Enhancement Plan (QEP) that identifies and addresses areas for improvement.
+
+### Key QEP Requirements
+
+- Developed through broad-based participation
+- Focuses on student learning or student success
+- Includes measurable goals and assessment
+- Has sufficient resources for implementation
+
+### Typical Evidence Types
+
+*Note: The QEP is developed during the reaffirmation process, not before. At this stage:*
+
+- Topic identification process documentation
+- Preliminary research on potential topics
+- Evidence of broad-based discussions
+- Resource commitment planning
+
+### Suggested Owners
+
+- QEP Director (once appointed)
+- Chief Academic Officer
+- Institutional Research
+
+### Common Pitfalls / Weak Evidence
+
+- Topic chosen without broad input
+- Focus too narrow or too broad
+- Insufficient assessment planning
+- Unrealistic resource expectations
+
+---
+
+## Standard 7.3 — Administrative Effectiveness
+
+### What SACSCOC is Trying to Ensure
+
+Administrative support units assess their effectiveness and use results for improvement.
+
+### Typical Evidence Types
+
+- Administrative unit assessment plans
+- Assessment results
+- Evidence of improvements made based on results
+- Planning and budgeting links
+
+### Suggested Owners
+
+- Vice Presidents
+- Administrative Department Heads
+- Institutional Effectiveness Office
+
+### Common Pitfalls / Weak Evidence
+
+- Assessment activities but no documented improvements
+- Not all units included
+- No systematic approach to administrative assessment
+
+---
+
+## Reflective Prompts
+
+- How does institutional planning connect to resource allocation decisions?
+- What evidence shows that assessment results lead to actual improvements?
+- How will the QEP topic be identified and developed?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

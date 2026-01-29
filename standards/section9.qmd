@@ -1,0 +1,172 @@
+---
+title: "Section 9: Educational Program Structure and Content"
+---
+
+# Section 9: Educational Program Structure and Content
+
+Section 9 addresses program structure, general education, and academic content requirements.
+
+## Standard 9.1 — Program Content [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+Educational programs are of appropriate quality and academic content.
+
+### Typical Evidence Types
+
+- Course catalog and program requirements
+- Course syllabi
+- Curriculum review processes
+- External validation (advisory committees, accreditation)
+
+### Suggested Owners
+
+- Chief Academic Officer
+- Curriculum Committee
+- Program Directors
+
+### Common Pitfalls / Weak Evidence
+
+- Programs lack rigor documentation
+- No systematic curriculum review process
+- Outdated course content
+
+---
+
+## Standard 9.2 — Program Length [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+Program length is appropriate for its degree level and comparable to similar programs at other institutions.
+
+### Typical Evidence Types
+
+- Credit hour requirements by program
+- Comparison with similar programs
+- Rationale for any unusual requirements
+
+### Common Pitfalls / Weak Evidence
+
+- Programs significantly shorter or longer than peers without justification
+
+::: {.callout-note title="NC Considerations"}
+NC community college programs follow SBCC curriculum standards:
+
+- **AAS/AS/AA degrees:** Typically 60-76 semester hours
+- **Diplomas:** Typically 36-48 semester hours
+- **Certificates:** Typically 12-18 semester hours
+
+Reference SBCC Curriculum Standards and Combined Course Library requirements.
+:::
+
+---
+
+## Standard 9.3 — General Education Requirements [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+Degree programs have a substantial general education component with breadth across major areas.
+
+### Typical Evidence Types
+
+- General education requirements by degree
+- Mapping of courses to areas of knowledge
+- Credit hour analysis
+
+### Requirements by Degree Level
+
+- **Associate:** At least 15 semester hours
+- **Baccalaureate (if applicable):** At least 30 semester hours
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges follow the Universal General Education Transfer Component (UGETC) aligned with the Comprehensive Articulation Agreement (CAA). Document:
+
+- General education course requirements
+- CAA alignment
+- UGETC course designations
+:::
+
+---
+
+## Standard 9.4 — Institutional Credit for Degree
+
+### What SACSCOC is Trying to Ensure
+
+A minimum of 25% of credit hours for each degree must be earned through instruction offered by the institution.
+
+### Typical Evidence Types
+
+- Transfer credit policies
+- Analysis of institutional credit requirements
+- Graduation audit procedures
+
+---
+
+## Standard 9.5 — Academic Policies
+
+### What SACSCOC is Trying to Ensure
+
+Academic policies are established and published.
+
+### Typical Evidence Types
+
+- Catalog academic policies
+- Add/drop policies
+- Grading policies
+- Academic integrity policies
+
+---
+
+## Standard 9.6 — Post-Secondary Credit
+
+### What SACSCOC is Trying to Ensure
+
+The institution awards credit based on documented student achievement of learning outcomes.
+
+### Typical Evidence Types
+
+- Credit hour policies
+- Course contact hour documentation
+- Policies on credit for prior learning
+
+---
+
+## Standard 9.7 — Program Curriculum
+
+### What SACSCOC is Trying to Ensure
+
+Programs follow coherent curricula with stated purposes, content, and learning outcomes.
+
+### Typical Evidence Types
+
+- Program descriptions with outcomes
+- Curriculum maps
+- Course sequence documentation
+- Prerequisites documentation
+
+---
+
+## Reflective Prompts
+
+- How do we ensure program content remains current and rigorous?
+- What processes verify general education breadth across programs?
+- How is credit hour policy consistently applied?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

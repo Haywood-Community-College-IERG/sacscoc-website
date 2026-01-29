@@ -1,0 +1,132 @@
+---
+title: "Section 5: Administration and Organization"
+---
+
+# Section 5: Administration and Organization
+
+Section 5 addresses institutional administrative structures and the qualifications of administrators.
+
+## Standard 5.1 — Chief Executive Officer [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution has a chief executive officer with appropriate authority to lead the institution.
+
+### Typical Evidence Types
+
+- CEO job description
+- CEO credentials (CV, transcripts)
+- Board delegation of authority
+- CEO contract or appointment letter
+- Organizational chart
+
+### Suggested Owners
+
+- Board Chair
+- Human Resources
+
+### Common Pitfalls / Weak Evidence
+
+- CEO role unclear or authority limited
+- Missing evidence of board delegation
+- Interim CEO arrangements not clearly documented
+
+::: {.callout-note title="NC Considerations"}
+NC community college Presidents are selected locally by Boards of Trustees following SBCC policies. Include:
+
+- State Board credential requirements for presidents
+- Board policies on presidential selection
+- Presidential reporting relationship to Board
+:::
+
+---
+
+## Standards 5.2.a-c — CEO Responsibilities
+
+### Standard 5.2.a — Institution Control
+
+**What SACSCOC is Trying to Ensure:** The CEO has responsibility for institutional control and day-to-day operations.
+
+### Standard 5.2.b — Accreditation Liaison
+
+**What SACSCOC is Trying to Ensure:** The CEO serves as the institution's accreditation liaison.
+
+### Standard 5.2.c — Personnel Appointments
+
+**What SACSCOC is Trying to Ensure:** The CEO has authority over personnel appointments and governance.
+
+### Typical Evidence Types for 5.2
+
+- Board policies delegating authority to CEO
+- Job descriptions showing reporting lines
+- Accreditation contact documentation
+- Personnel policies
+
+---
+
+## Standard 5.3 — Organizational Structure
+
+### What SACSCOC is Trying to Ensure
+
+The institution has an organizational structure that ensures administration functions properly.
+
+### Typical Evidence Types
+
+- Organizational chart
+- Position descriptions for all administrative roles
+- Evidence of administrative qualifications
+
+---
+
+## Standard 5.4 — Qualified Administrators
+
+### What SACSCOC is Trying to Ensure
+
+All administrators have appropriate credentials and experience for their roles.
+
+### Typical Evidence Types
+
+- Administrator roster with credentials
+- Position descriptions with required qualifications
+- CVs and transcripts for each administrator
+
+### Suggested Owners
+
+- Human Resources
+- Vice Presidents / Deans
+
+### Common Pitfalls / Weak Evidence
+
+- Credentials don't match position requirements
+- Missing transcripts or CVs
+- Job descriptions without clear requirements
+
+---
+
+## Standard 5.5 — Personnel Appointment Policies
+
+### What SACSCOC is Trying to Ensure
+
+Personnel policies govern appointment of staff and administrators.
+
+### Typical Evidence Types
+
+- Personnel policies and procedures manual
+- Hiring policies
+- Background check policies
+- Employee handbook
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges follow both SBCC personnel policies and local board policies. Document both levels of policy and their relationship. Reference relevant SBCC Code provisions.
+:::
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

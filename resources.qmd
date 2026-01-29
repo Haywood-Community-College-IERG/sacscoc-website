@@ -1,0 +1,123 @@
+---
+title: "Resources"
+---
+
+# Resources {.unnumbered}
+
+Below you will find resources helpful for SACSCOC reaffirmation preparation.
+
+## Official SACSCOC Publications
+
+::: {.callout-important}
+## Primary Reference Documents
+These are the authoritative sources for SACSCOC requirements:
+
+- **Principles of Accreditation (2024 Edition)** — The standards against which institutions are evaluated
+- **Resource Manual** — Detailed guidance for each standard including evidence suggestions
+- **Handbook for Institutions Seeking Reaffirmation** — Process, timeline, and procedural requirements
+:::
+
+### Key SACSCOC Documents
+
+| Document | Purpose |
+|----------|---------|
+| Principles of Accreditation | Official standards text |
+| Resource Manual | Evidence guidance, questions to consider |
+| Handbook for Reaffirmation | Process steps, timeline, responsibilities |
+| Substantive Change Policy | Guidelines for reporting changes |
+| Faculty Credentials Guidelines | Guidance on faculty qualifications |
+| QEP Handbook | Guidance for Quality Enhancement Plan |
+
+## SACSCOC Annual Meeting Sessions
+
+The SACSCOC Annual Meeting offers numerous sessions helpful for reaffirmation preparation. Common topics include:
+
+- Preparing the Compliance Certification
+- Developing an Effective QEP
+- Faculty Credentials and the Roster Form
+- Distance Education Compliance
+- Off-Campus Site Requirements
+- Financial Standards Compliance
+
+## NC Community College System Resources
+
+::: {.callout-note title="NC-Specific Resources"}
+NC community colleges have access to:
+
+- NC Community College System Office guidance
+- Peer institutions' experiences and best practices
+- Working group collaborations for institutions in the same class
+- Shared professional development opportunities
+:::
+
+## Self-Assessment Tools
+
+### Compliance Certification Checklist
+
+Before submission, verify:
+
+- [ ] All Core Requirements addressed with strong evidence
+- [ ] All Comprehensive Standards addressed
+- [ ] Faculty Roster Form complete
+- [ ] Institutional Summary Form updated
+- [ ] Distance learning addressed in applicable standards
+- [ ] Off-campus sites addressed in applicable standards
+- [ ] All document links functional
+- [ ] CEO signature obtained
+
+### QEP Checklist
+
+- [ ] Topic identified through ongoing planning processes
+- [ ] Broad-based support documented
+- [ ] Focus on student learning outcomes and/or student success
+- [ ] Resources committed (budget, personnel, facilities)
+- [ ] Assessment plan with measurable outcomes
+- [ ] Implementation timeline included
+- [ ] Maximum 75 pages narrative + 25 pages appendices
+
+### On-Site Visit Preparation
+
+- [ ] Hosting committee formed
+- [ ] Hotel and workroom reserved
+- [ ] Transportation arranged
+- [ ] Interview schedule drafted
+- [ ] Campus community briefed
+- [ ] QEP awareness campaign completed
+- [ ] Documents organized and accessible
+
+## Training and Professional Development
+
+### Recommended Training
+
+1. **Orientation Meeting** — Required attendance for Leadership Team
+2. **SACSCOC Annual Meeting** — Sessions on reaffirmation topics
+3. **QEP Institute** — Guidance for QEP development
+4. **Regional workshops** — Various SACSCOC-sponsored events
+
+### Internal Training Suggestions
+
+- Standards overview sessions for all employees
+- QEP awareness campaign
+- Interview preparation workshops
+- Evidence gathering training
+
+## External Resources
+
+### Peer Institution Examples
+
+::: {.callout-tip}
+Many institutions publish their Compliance Certifications, QEPs, and accreditation resources online. These can serve as structural examples (though content should not be copied).
+:::
+
+### Professional Organizations
+
+- Association for Institutional Research (AIR)
+- Association for the Assessment of Learning in Higher Education (AALHE)
+- Council for Higher Education Accreditation (CHEA)
+
+---
+
+## Sources Consulted
+
+- `Resources/` — SACSCOC official documents
+- `HLC Example Resource Website/` — Structure and format inspiration

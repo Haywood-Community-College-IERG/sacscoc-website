@@ -1,0 +1,200 @@
+---
+title: "Section 13: Financial and Physical Resources"
+---
+
+# Section 13: Financial and Physical Resources
+
+Section 13 addresses financial stability, budgeting, and physical infrastructure.
+
+## Standard 13.1 — Financial Resources [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution has sound financial resources and demonstrates financial stability.
+
+### Typical Evidence Types
+
+- Audited financial statements (3 years)
+- Budget documents
+- Fund balance/reserve policies
+- Financial trend analysis
+- Debt service coverage
+
+### Suggested Owners
+
+- Chief Financial Officer
+- President
+- Board Finance Committee
+
+### Common Pitfalls / Weak Evidence
+
+- Declining fund balances without explanation
+- Audit findings not addressed
+- Unrealistic budget assumptions
+- Missing financial documentation
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges receive funding through:
+
+- State appropriations (FTE-based formula)
+- County appropriations (capital and operational support)
+- Tuition and fees
+- Grants and contracts
+
+Document relationship with county funding and state allocation processes.
+:::
+
+---
+
+## Standard 13.2 — Financial Documents [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution has an annual independent audit and addresses any findings.
+
+### Typical Evidence Types
+
+- Annual audit reports (3 years minimum)
+- Management letters
+- Responses to findings
+- Evidence of corrective actions
+
+### Common Pitfalls / Weak Evidence
+
+- Repeat audit findings
+- Findings not addressed
+- Late audit completion
+
+---
+
+## Standard 13.3 — Financial Responsibility
+
+### What SACSCOC is Trying to Ensure
+
+The institution exercises appropriate financial controls and oversight.
+
+### Typical Evidence Types
+
+- Internal control documentation
+- Budget monitoring procedures
+- Purchasing policies
+- Financial reports to board
+
+---
+
+## Standard 13.4 — Control of Finances
+
+### What SACSCOC is Trying to Ensure
+
+The institution exercises proper control over all financial resources.
+
+### Typical Evidence Types
+
+- Policies for all fund types
+- Foundation relationship agreements
+- Auxiliary enterprise oversight
+- Grant management procedures
+
+---
+
+## Standard 13.5 — Control of Sponsored Research
+
+### What SACSCOC is Trying to Ensure
+
+If conducting sponsored research, appropriate oversight exists.
+
+### Typical Evidence Types
+
+- Grant management policies
+- Compliance procedures
+- Financial oversight of grants
+
+*Note: Many community colleges have limited sponsored research. Document what exists or state that the standard has limited applicability.*
+
+---
+
+## Standard 13.6 — Federal/State Responsibilities
+
+### What SACSCOC is Trying to Ensure
+
+The institution is in compliance with federal and state requirements related to financial responsibility.
+
+### Typical Evidence Types
+
+- Title IV compliance documentation
+- Default rates
+- Financial responsibility composite score
+- Program review results
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges must comply with both federal Title IV requirements and NC state financial policies including:
+
+- SBCC fiscal policies
+- NC Office of State Budget and Management requirements
+- Local Government Commission oversight (for borrowing)
+:::
+
+---
+
+## Standard 13.7 — Physical Resources
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides adequate physical resources for its programs and services.
+
+### Typical Evidence Types
+
+- Facilities master plan
+- Space utilization data
+- Maintenance and renovation budgets
+- Safety and security documentation
+- ADA compliance
+
+### Suggested Owners
+
+- Facilities Director
+- Chief Financial Officer
+
+### Common Pitfalls / Weak Evidence
+
+- Deferred maintenance backlog
+- Safety issues not addressed
+- No facilities master plan
+
+---
+
+## Standard 13.8 — Institutional Environment
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides a healthy, safe, and secure environment.
+
+### Typical Evidence Types
+
+- Safety policies and procedures
+- Emergency management plan
+- Campus security reports (Clery Act)
+- Health and safety inspections
+
+---
+
+## Reflective Prompts
+
+- What is the institution's financial trajectory?
+- How are audit findings tracked and addressed?
+- What is the status of deferred maintenance?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

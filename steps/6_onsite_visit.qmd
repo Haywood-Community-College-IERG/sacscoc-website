@@ -1,0 +1,124 @@
+---
+title: "Step 6: On-Site Visit"
+---
+
+# Step 6: On-Site Visit
+
+The On-Site Visit is a 2.5-3 day campus visit by peer evaluators to verify compliance and evaluate the QEP.
+
+## Timeline
+
+**When:** T-9 to T-7 months (September-November for Track A)
+
+## Purpose
+
+The On-Site Committee:
+
+- Verifies compliance with standards
+- Evaluates the Quality Enhancement Plan
+- Follows up on Off-Site Committee findings
+- Interviews campus constituents
+- Visits off-campus instructional sites (if applicable)
+
+## Committee Composition
+
+| Role | Description |
+|------|-------------|
+| Chair | Senior administrator from peer institution |
+| Members | 6-10 peer evaluators |
+| SACSCOC Staff | Vice President liaison |
+| Observer | Training for future service (if applicable) |
+
+## Preparation
+
+### Hosting Logistics
+
+::: {.callout-tip}
+## Key Preparations
+
+- Reserve hotel with committee workroom
+- Arrange transportation
+- Plan meals and hospitality
+- Prepare interview schedule
+- Brief campus community
+- Organize document access
+:::
+
+### Interview Preparation
+
+Prepare campus constituents for potential interviews:
+
+- President and Cabinet
+- Board members
+- Faculty (all disciplines)
+- Staff (all areas)
+- Students
+- QEP team members
+
+### Campus Awareness
+
+All employees should know:
+
+- **Mission statement**
+- **QEP topic** and general plan
+- How to answer honestly (it's okay to say "I don't know")
+- How to be welcoming and professional
+
+## Typical Schedule
+
+### Day 1 (First Full Day)
+
+| Time | Activity |
+|------|----------|
+| Morning | Breakfast; travel to campus |
+| Mid-Morning | Welcome; orientation |
+| Late Morning | QEP presentation and meeting |
+| Afternoon | Initial interviews; off-campus visits |
+| Evening | Committee dinner |
+
+### Day 2
+
+| Time | Activity |
+|------|----------|
+| Morning | Standard-specific interviews |
+| Midday | Working lunch with QEP focus |
+| Afternoon | Additional interviews; follow-up |
+| Evening | Committee deliberations |
+
+### Day 3 (Exit Day)
+
+| Time | Activity |
+|------|----------|
+| Morning | Final interviews |
+| Mid-Morning | **Exit Conference** |
+| Late Morning | Committee departure |
+
+## Exit Conference
+
+::: {.callout-important}
+## Exit Conference Expectations
+
+- Preliminary findings shared
+- Not the final word — Board has final authority
+- Do not share publicly until authorized
+- Listen carefully; take notes
+- Thank the committee
+:::
+
+## Post-Visit Actions
+
+1. **Debrief** with Leadership Team
+2. **Document** any items mentioned
+3. **Begin** preparing response (if applicable)
+4. **Await** the formal Committee Report
+
+## Next Step
+
+After the visit, proceed to [Step 7: Response & Board Action](7_response_board.qmd).
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`
+- `On-Site Visit/` folder materials

@@ -1,0 +1,140 @@
+---
+title: "Standards Index"
+---
+
+# SACSCOC Standards Index
+
+This index provides quick access to all SACSCOC Standards organized by Section. **Core Requirements** are highlighted for easy identification.
+
+::: {.callout-important}
+## Core Requirements
+Standards marked with **[CR]** are Core Requirements — the most fundamental standards that require the strongest evidence.
+:::
+
+## Filtering Standards
+
+Use the table below to find specific standards. Core Requirements are marked in the "Core" column.
+
+```{=html}
+<style>
+.core-yes {
+  background-color: #fff3cd;
+  font-weight: bold;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #dee2e6;
+  padding: 0.5rem;
+  text-align: left;
+}
+th {
+  background-color: #003366;
+  color: white;
+}
+tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+</style>
+```
+
+| Section | Standard | Title | Core | Link |
+|---------|----------|-------|:----:|------|
+| 1 | 1.1 | Integrity | ✓ | [Section 1](section1.qmd) |
+| 2 | 2.1 | Institutional Mission | ✓ | [Section 2](section2.qmd) |
+| 3 | 3.1.a | Degree-granting authority | ✓ | [Section 3](section3.qmd) |
+| 3 | 3.1.b | Coursework for degrees | ✓ | [Section 3](section3.qmd) |
+| 3 | 3.1.c | Continuous operation | ✓ | [Section 3](section3.qmd) |
+| 4 | 4.1 | Governing board characteristics | ✓ | [Section 4](section4.qmd) |
+| 4 | 4.2.a | Mission review | | [Section 4](section4.qmd) |
+| 4 | 4.2.b | Board/administrative distinction | | [Section 4](section4.qmd) |
+| 4 | 4.2.c | CEO evaluation and selection | | [Section 4](section4.qmd) |
+| 4 | 4.2.d | Conflict of interest | | [Section 4](section4.qmd) |
+| 4 | 4.2.e | Board dismissal | | [Section 4](section4.qmd) |
+| 4 | 4.2.f | External influence | | [Section 4](section4.qmd) |
+| 4 | 4.2.g | Board self-evaluation | | [Section 4](section4.qmd) |
+| 4 | 4.3 | Multi-level governance | | [Section 4](section4.qmd) |
+| 5 | 5.1 | Chief executive officer | ✓ | [Section 5](section5.qmd) |
+| 5 | 5.2.a | CEO control of institution | | [Section 5](section5.qmd) |
+| 5 | 5.2.b | Control of intercollegiate athletics | | [Section 5](section5.qmd) |
+| 5 | 5.2.c | Control of fund-raising | | [Section 5](section5.qmd) |
+| 5 | 5.3 | Institution-related entities | | [Section 5](section5.qmd) |
+| 5 | 5.4 | Qualified administrative/academic officers | | [Section 5](section5.qmd) |
+| 5 | 5.5 | Personnel appointment and evaluation | | [Section 5](section5.qmd) |
+| 6 | 6.1 | Full-time faculty | ✓ | [Section 6](section6.qmd) |
+| 6 | 6.2.a | Faculty qualifications | | [Section 6](section6.qmd) |
+| 6 | 6.2.b | Program faculty | | [Section 6](section6.qmd) |
+| 6 | 6.2.c | Program coordination | | [Section 6](section6.qmd) |
+| 6 | 6.3 | Faculty appointment and evaluation | | [Section 6](section6.qmd) |
+| 6 | 6.4 | Academic freedom | | [Section 6](section6.qmd) |
+| 6 | 6.5 | Faculty development | | [Section 6](section6.qmd) |
+| 7 | 7.1 | Institutional planning | ✓ | [Section 7](section7.qmd) |
+| 7 | 7.2 | Quality Enhancement Plan | | [Section 7](section7.qmd) |
+| 7 | 7.3 | Administrative effectiveness | | [Section 7](section7.qmd) |
+| 8 | 8.1 | Student achievement | ✓ | [Section 8](section8.qmd) |
+| 8 | 8.2.a | Student outcomes: educational programs | | [Section 8](section8.qmd) |
+| 8 | 8.2.b | Student outcomes: general education | | [Section 8](section8.qmd) |
+| 8 | 8.2.c | Student outcomes: academic/student services | | [Section 8](section8.qmd) |
+| 9 | 9.1 | Program content | ✓ | [Section 9](section9.qmd) |
+| 9 | 9.2 | Program length | ✓ | [Section 9](section9.qmd) |
+| 9 | 9.3 | General education requirements | ✓ | [Section 9](section9.qmd) |
+| 9 | 9.4 | Institutional credits for undergraduate degree | | [Section 9](section9.qmd) |
+| 9 | 9.5 | Institutional credits for graduate/professional degree | | [Section 9](section9.qmd) |
+| 9 | 9.6 | Post-baccalaureate rigor and curriculum | | [Section 9](section9.qmd) |
+| 9 | 9.7 | Program requirements | | [Section 9](section9.qmd) |
+| 10 | 10.1 | Academic policies | | [Section 10](section10.qmd) |
+| 10 | 10.2 | Public information | | [Section 10](section10.qmd) |
+| 10 | 10.3 | Archived information | | [Section 10](section10.qmd) |
+| 10 | 10.4 | Academic governance | | [Section 10](section10.qmd) |
+| 10 | 10.5 | Admissions policies and practices | | [Section 10](section10.qmd) |
+| 10 | 10.6 | Distance and correspondence education | | [Section 10](section10.qmd) |
+| 10 | 10.7 | Policies for awarding credit | | [Section 10](section10.qmd) |
+| 10 | 10.8 | Evaluating and awarding academic credit | | [Section 10](section10.qmd) |
+| 10 | 10.9 | Cooperative academic arrangements | | [Section 10](section10.qmd) |
+| 11 | 11.1 | Library and learning/information resources | ✓ | [Section 11](section11.qmd) |
+| 11 | 11.2 | Library and learning/information staff | | [Section 11](section11.qmd) |
+| 11 | 11.3 | Library and learning/information access | | [Section 11](section11.qmd) |
+| 12 | 12.1 | Student support services | ✓ | [Section 12](section12.qmd) |
+| 12 | 12.2 | Student support services staff | | [Section 12](section12.qmd) |
+| 12 | 12.3 | Student rights | | [Section 12](section12.qmd) |
+| 12 | 12.4 | Student complaints | | [Section 12](section12.qmd) |
+| 12 | 12.5 | Student records | | [Section 12](section12.qmd) |
+| 12 | 12.6 | Student debt and financial literacy | | [Section 12](section12.qmd) |
+| 13 | 13.1 | Financial resources | ✓ | [Section 13](section13.qmd) |
+| 13 | 13.2 | Financial documents | ✓ | [Section 13](section13.qmd) |
+| 13 | 13.3 | Financial responsibility | | [Section 13](section13.qmd) |
+| 13 | 13.4 | Control of finances | | [Section 13](section13.qmd) |
+| 13 | 13.5 | Control of sponsored research/external funds | | [Section 13](section13.qmd) |
+| 13 | 13.6 | Federal and state responsibilities | | [Section 13](section13.qmd) |
+| 13 | 13.7 | Physical resources | | [Section 13](section13.qmd) |
+| 13 | 13.8 | Institutional environment | | [Section 13](section13.qmd) |
+| 14 | 14.1 | Publication of accreditation status | | [Section 14](section14.qmd) |
+| 14 | 14.2 | Substantive change | | [Section 14](section14.qmd) |
+| 14 | 14.3 | Comprehensive institutional reviews | | [Section 14](section14.qmd) |
+| 14 | 14.4 | Representation to other agencies | | [Section 14](section14.qmd) |
+| 14 | 14.5 | Policy compliance | | [Section 14](section14.qmd) |
+
+## Section Quick Links
+
+- [Section 1: Integrity](section1.qmd)
+- [Section 2: Mission](section2.qmd)
+- [Section 3: Basic Eligibility](section3.qmd)
+- [Section 4: Governing Board](section4.qmd)
+- [Section 5: Administration](section5.qmd)
+- [Section 6: Faculty](section6.qmd)
+- [Section 7: Planning & Effectiveness](section7.qmd)
+- [Section 8: Student Achievement](section8.qmd)
+- [Section 9: Program Structure](section9.qmd)
+- [Section 10: Policies & Practices](section10.qmd)
+- [Section 11: Library Resources](section11.qmd)
+- [Section 12: Student Services](section12.qmd)
+- [Section 13: Financial Resources](section13.qmd)
+- [Section 14: Transparency](section14.qmd)
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`

@@ -1,0 +1,98 @@
+---
+title: "Step 4: Off-Site Review"
+---
+
+# Step 4: Off-Site Review
+
+The Off-Site Review is conducted by peer evaluators who assess the Compliance Certification without visiting campus.
+
+## Timeline
+
+**When:** T-13 months (May of Year 2 for Track A)
+
+## Purpose
+
+The Off-Site Committee:
+
+- Reviews the Compliance Certification
+- Identifies areas of apparent compliance
+- Identifies areas of concern or potential non-compliance
+- Produces a report for the institution and On-Site Committee
+
+## What to Expect
+
+### Committee Composition
+
+- Peer evaluators from similar institutions
+- Mix of faculty and administrators
+- Assigned specific standards based on expertise
+- SACSCOC staff liaison
+
+### Review Process
+
+1. Committee receives Compliance Certification
+2. Individual evaluators review assigned standards
+3. Committee discusses findings
+4. Committee prepares report
+
+## Off-Site Report
+
+### Report Contents
+
+The Off-Site Report identifies:
+
+- Standards found in compliance
+- Standards with concerns or questions
+- Standards found out of compliance
+- Requests for additional information
+
+### Receiving the Report
+
+::: {.callout-note}
+## Institutional Response
+
+When you receive the Off-Site Report:
+
+1. Review carefully with Leadership Team
+2. Identify areas requiring response
+3. Begin preparing Focused Report
+4. Gather additional evidence as needed
+:::
+
+## Preparing for the Next Phase
+
+### Focused Report (Optional but Recommended)
+
+The Focused Report allows institutions to:
+
+- Address findings of non-compliance
+- Provide additional evidence
+- Clarify misunderstandings
+- Document recent improvements
+
+::: {.callout-important}
+## Focused Report Deadline
+Due 6 weeks before the On-Site Visit, along with the QEP
+:::
+
+### Common Areas Requiring Follow-Up
+
+Based on typical Off-Site findings:
+
+| Standard | Common Issues |
+|----------|---------------|
+| 6.2.a | Faculty qualifications documentation |
+| 6.2.b | Program faculty ratios |
+| 8.2.a | Assessment cycle completion |
+| 10.6 | Student identity verification |
+| 14.3 | Off-campus site compliance |
+
+## Next Step
+
+After receiving the Off-Site Report, proceed to [Step 5: QEP Submission](5_qep_submission.qmd).
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`

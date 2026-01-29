@@ -1,0 +1,153 @@
+---
+title: "Section 12: Student Support Services"
+---
+
+# Section 12: Student Support Services
+
+Section 12 addresses support services that contribute to student success.
+
+## Standard 12.1 — Student Support Services [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides appropriate support services for its student population.
+
+### Typical Evidence Types
+
+- Catalog of student services
+- Descriptions of each service area
+- Usage data
+- Student satisfaction data
+- Staffing for services
+
+### Suggested Owners
+
+- Vice President for Student Services
+- Student Services Directors
+
+### Common Pitfalls / Weak Evidence
+
+- Services don't match student population needs
+- Limited access for distance/online students
+- Insufficient staffing
+- No evidence of service effectiveness
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges serve diverse student populations including:
+
+- Recent high school graduates
+- Career changers and adult learners
+- High school students (Career & College Promise)
+- Basic skills and GED students
+
+Document services addressing each population's unique needs.
+:::
+
+---
+
+## Standard 12.2 — Student Rights
+
+### What SACSCOC is Trying to Ensure
+
+The institution has policies that protect student rights and are disseminated to students.
+
+### Typical Evidence Types
+
+- Student rights policies
+- Grievance procedures
+- Student handbook
+- Publication evidence
+
+---
+
+## Standard 12.3 — Student Records
+
+### What SACSCOC is Trying to Ensure
+
+The institution maintains secure and confidential student records.
+
+### Typical Evidence Types
+
+- FERPA compliance documentation
+- Records security procedures
+- Records retention policy
+- Access controls
+
+---
+
+## Standard 12.4 — Academic Advising
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides academic advising to support student success.
+
+### Typical Evidence Types
+
+- Advising model description
+- Advisor qualifications
+- Advising load data
+- Student satisfaction with advising
+
+### Common Pitfalls / Weak Evidence
+
+- High advisor-to-student ratios
+- Unclear advising responsibilities
+- No advisor training program
+
+---
+
+## Standard 12.5 — Financial Aid Office
+
+### What SACSCOC is Trying to Ensure
+
+The institution provides financial aid services with adequate staffing and oversight.
+
+### Typical Evidence Types
+
+- Financial aid policies and procedures
+- Staff qualifications
+- Aid disbursement data
+- Compliance audits
+
+::: {.callout-note title="NC Considerations"}
+NC community college students may access:
+
+- Federal financial aid (Pell, loans)
+- NC-specific aid (NC Need-Based Scholarships, NC Education Lottery)
+- Local scholarships and foundation support
+
+Document all financial aid programs and eligibility requirements.
+:::
+
+---
+
+## Standard 12.6 — Co-Curricular Activities (if applicable)
+
+### What SACSCOC is Trying to Ensure
+
+If the institution offers co-curricular activities, they are appropriate for the mission and student population.
+
+### Typical Evidence Types
+
+- List of student organizations
+- Co-curricular programming
+- Student leadership opportunities
+
+---
+
+## Reflective Prompts
+
+- How do we assess the effectiveness of student services?
+- What evidence shows services meet diverse student needs?
+- How are online/distance students supported?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

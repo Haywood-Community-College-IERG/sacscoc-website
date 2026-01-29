@@ -1,0 +1,75 @@
+/*-- scss:defaults --*/
+
+$primary: #003366;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+
+/*-- scss:rules --*/
+
+/* Core Requirement highlighting */
+.core-requirement {
+  background-color: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.core-requirement-badge {
+  background-color: #ffc107;
+  color: #000;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  font-size: 0.875rem;
+}
+
+/* Standard card styling */
+.standard-card {
+  border: 1px solid #dee2e6;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.standard-card.core {
+  border-left: 4px solid #ffc107;
+}
+
+/* NC Considerations callout styling */
+.callout-note.nc-considerations {
+  border-left-color: #003366;
+}
+
+/* Table improvements */
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+th {
+  background-color: #003366;
+  color: white;
+}
+
+/* Checklist styling */
+input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+
+/* Timeline styling */
+.timeline-item {
+  border-left: 3px solid #003366;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.timeline-item.completed {
+  border-left-color: #28a745;
+}
+
+.timeline-item.in-progress {
+  border-left-color: #ffc107;
+}

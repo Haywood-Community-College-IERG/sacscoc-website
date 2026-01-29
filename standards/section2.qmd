@@ -1,0 +1,70 @@
+---
+title: "Section 2: Mission"
+---
+
+# Section 2: Mission
+
+Section 2 contains one standard addressing the institution's mission.
+
+## Standard 2.1 — Institutional Mission [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+This is a Core Requirement — one of the most fundamental aspects of institutional quality.
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution has a clearly defined and published mission appropriate to higher education that guides its activities.
+
+### Typical Evidence Types
+
+- Current mission statement
+- Board minutes showing mission approval/review
+- Strategic plan referencing mission
+- Catalog and website showing published mission
+- Examples of mission-driven decisions
+
+### Suggested Owners
+
+- President's Office
+- Strategic Planning Committee
+- Institutional Effectiveness Office
+
+### Common Pitfalls / Weak Evidence
+
+- Mission statement not recently reviewed
+- Mission not visible on website or in catalog
+- Cannot demonstrate how mission guides decisions
+- Mission inappropriate for institution type
+
+### Example Practices
+
+- Regular mission review cycle (every 3-5 years)
+- Mission prominently displayed on campus and online
+- Strategic plan explicitly tied to mission
+- Budget requests require mission alignment statement
+
+### Reflective Prompts
+
+- When was our mission last reviewed and by whom?
+- Where is our mission published?
+- Can we provide examples of decisions guided by our mission?
+- Does our mission appropriately reflect who we are and whom we serve?
+
+::: {.callout-note title="NC Considerations"}
+North Carolina community colleges operate within the NC Community College System and must align with both local and state missions. Ensure your mission reflects:
+
+- Open-door policy
+- Workforce development focus
+- Community service emphasis
+- Your unique institutional identity
+- Your specific service area
+:::
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

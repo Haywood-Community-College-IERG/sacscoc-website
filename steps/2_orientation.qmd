@@ -1,0 +1,99 @@
+---
+title: "Step 2: Orientation Meeting"
+---
+
+# Step 2: Orientation Meeting
+
+Attendance at the SACSCOC Orientation Meeting is required for all institutions preparing for reaffirmation.
+
+## Timeline
+
+**When:** T-29 months (January of Year 1 for Track A institutions)
+
+## Purpose
+
+The Orientation Meeting provides:
+
+- Detailed overview of the reaffirmation process
+- Updates on any changes to standards or procedures
+- Opportunity to ask questions of SACSCOC staff
+- Networking with peer institutions
+
+## Requirements
+
+::: {.callout-important}
+## Attendance Requirements
+
+- Maximum **5 institutional representatives**
+- Must include the chief finance officer
+- Institutional Summary Form due at Orientation
+:::
+
+## Before Orientation
+
+### Preparation Tasks
+
+1. **Register** for the Orientation Meeting
+2. **Prepare** the Institutional Summary Form
+3. **Review** the Handbook and Principles of Accreditation
+4. **Prepare questions** for SACSCOC staff
+5. **Coordinate** team travel arrangements
+
+### Institutional Summary Form
+
+The Institutional Summary Form provides evaluators with essential information about your institution:
+
+- Programs offered
+- Off-campus instructional sites
+- Distance education offerings
+- Accreditation history
+- Institutional profile
+
+::: {.callout-note}
+This form must be updated at each subsequent phase of the process.
+:::
+
+## At Orientation
+
+### What to Expect
+
+- Presentations on the reaffirmation process
+- Breakout sessions on specific topics
+- Q&A with SACSCOC staff
+- Materials and resources
+
+### Key Topics
+
+- Timeline and deadlines
+- Compliance Certification requirements
+- QEP expectations
+- Off-Site and On-Site Review process
+- Common compliance issues
+
+## After Orientation
+
+### Immediate Actions
+
+1. **Debrief** with full Leadership Team
+2. **Share information** with broader campus community
+3. **Finalize** internal timeline
+4. **Begin** Compliance Certification planning
+5. **Consider** requesting an Advisory Visit (optional)
+
+### Advisory Visit (Optional)
+
+Institutions may request an Advisory Visit from a SACSCOC Vice President to:
+
+- Provide early feedback on preparation
+- Answer specific questions
+- Offer guidance on potential compliance issues
+
+## Next Step
+
+After Orientation, proceed to [Step 3: Compliance Certification](3_compliance_certification.qmd).
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`

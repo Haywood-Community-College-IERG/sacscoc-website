@@ -1,0 +1,112 @@
+---
+title: "Section 4: Governing Board"
+---
+
+# Section 4: Governing Board
+
+Section 4 addresses the institution's governing board structure, responsibilities, and operations.
+
+## Standard 4.1 — Governing Board Characteristics [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution has a governing board with legal and fiduciary authority that protects the institution and ensures its effective operation.
+
+### Typical Evidence Types
+
+- Board bylaws
+- Board member roster with terms and occupations
+- Conflict of interest policies and disclosures
+- Board meeting minutes
+- Board orientation materials
+- Organizational chart showing board relationship
+
+### Suggested Owners
+
+- Board Chair
+- President
+- Board Secretary
+
+### Common Pitfalls / Weak Evidence
+
+- Board member with conflict of interest not documented
+- Unclear distinction between board and administration roles
+- Missing or outdated bylaws
+- Lack of documented board orientation
+
+::: {.callout-note title="NC Considerations"}
+NC community college Boards of Trustees operate under NC General Statutes Chapter 115D and State Board of Community Colleges Code. Key points:
+
+- Trustees appointed through county commissioners, school boards, and governor
+- Board operates within SBCC parameters
+- Include relevant statutes, code provisions, and local board policies
+:::
+
+---
+
+## Standards 4.2.a-g — Board Operations
+
+### Standard 4.2.a — Mission Review
+
+**What SACSCOC is Trying to Ensure:** The board ensures periodic review of the mission.
+
+### Standard 4.2.b — Board/Administrative Distinction
+
+**What SACSCOC is Trying to Ensure:** Clear distinction between board policy-making and administrative implementation.
+
+### Standard 4.2.c — CEO Evaluation and Selection
+
+**What SACSCOC is Trying to Ensure:** The board has clear processes for CEO selection and evaluation.
+
+### Standard 4.2.d — Conflict of Interest
+
+**What SACSCOC is Trying to Ensure:** Board members disclose and avoid conflicts of interest.
+
+### Standard 4.2.e — Board Dismissal
+
+**What SACSCOC is Trying to Ensure:** Policies exist for board member dismissal if needed.
+
+### Standard 4.2.f — External Influence
+
+**What SACSCOC is Trying to Ensure:** The board is free from undue external influence.
+
+### Standard 4.2.g — Board Self-Evaluation
+
+**What SACSCOC is Trying to Ensure:** The board regularly evaluates its own effectiveness.
+
+### Typical Evidence Types for 4.2
+
+- Policy documents for each area
+- Board minutes showing implementation
+- CEO evaluation process documentation
+- Conflict of interest disclosures signed by all members
+- Board self-evaluation results
+
+---
+
+## Standard 4.3 — Multi-Level Governance
+
+### What SACSCOC is Trying to Ensure
+
+If there is a multi-level governance structure, roles and responsibilities are clearly defined.
+
+::: {.callout-note title="NC Considerations"}
+NC community colleges have multi-level governance:
+
+- **State Board of Community Colleges (SBCC)** — Policy and oversight at state level
+- **NC Community College System Office** — Implementation and coordination
+- **Local Board of Trustees** — Local governance and oversight
+
+Clearly delineate these respective roles in your narrative.
+:::
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
+- `Resources/2024 Principles of Accreditation - Resource Manual (Apr 2024).pdf`

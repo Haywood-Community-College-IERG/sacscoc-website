@@ -1,0 +1,71 @@
+---
+title: "About"
+---
+
+# About This Resource
+
+This website was created to support institutions preparing for SACSCOC reaffirmation. It provides:
+
+- Timeline and process guidance
+- Standards-by-standards explanations
+- Practical checklists and templates
+- NC-specific considerations
+
+## Purpose
+
+The goal is to provide **training-friendly, public-facing** guidance that can be adapted by any institution preparing for SACSCOC reaffirmation. Content is designed to be:
+
+- Clear and accessible to all college employees
+- Operationally useful for accreditation coordinators
+- Compliant with SACSCOC expectations
+- Adaptable to individual institutional contexts
+
+## How This Resource Was Created
+
+This resource was developed by synthesizing:
+
+- Official SACSCOC publications (Principles of Accreditation, Resource Manual, Handbook)
+- Best practices from peer institutions
+- Practical experience from prior reaffirmation processes
+
+## Intended Audience
+
+- **Accreditation Liaisons** — Primary users coordinating reaffirmation
+- **Leadership Teams** — Presidents, VPs, and committee members
+- **Standard Owners** — Faculty and staff writing narratives
+- **Campus Community** — All employees preparing for on-site visits
+
+## Using This Resource
+
+::: {.callout-tip}
+## Best Practices
+
+1. **Start with the Timeline** — Understand the overall process
+2. **Use the Standards Index** — Find specific guidance
+3. **Focus on Core Requirements** — Prioritize these standards
+4. **Adapt to Your Context** — Modify templates and checklists for your institution
+:::
+
+## Feedback
+
+This resource is designed to evolve based on user feedback. If you have suggestions for improvement, please use the "Suggesting Changes" page.
+
+## Disclaimer
+
+This resource is intended as **supplementary guidance** and does not replace official SACSCOC publications. Always refer to the current:
+
+- Principles of Accreditation
+- Resource Manual
+- Handbook for Institutions Seeking Reaffirmation
+- SACSCOC website and staff guidance
+
+for authoritative requirements.
+
+---
+
+## Sources Consulted (Folder-Level)
+
+- `Resources/` — SACSCOC official documents
+- `Example reports/` — Structural patterns only
+- `On-Site Visit/` — Logistics and preparation patterns
+- `HLC Example Resource Website/` — Technical structure only

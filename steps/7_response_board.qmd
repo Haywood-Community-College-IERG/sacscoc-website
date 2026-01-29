@@ -1,0 +1,138 @@
+---
+title: "Step 7: Response & Board Action"
+---
+
+# Step 7: Response & Board Action
+
+The final phase includes responding to the On-Site Committee Report and receiving the Board of Trustees decision.
+
+## Timeline
+
+| Event | Timing |
+|-------|--------|
+| Receive Committee Report | ~2 weeks after visit |
+| Response Due | T-1 month (5 months after visit) |
+| Board Action | T-0 (June for Track A) |
+
+## Committee Report
+
+### Receiving the Report
+
+After the On-Site Visit, the Committee prepares a formal report including:
+
+- Findings on each Standard
+- Evaluation of the QEP
+- Recommendations
+
+### Reviewing the Report
+
+::: {.callout-note}
+## Action Steps
+
+1. **Review carefully** with Leadership Team
+2. **Identify** any areas requiring response
+3. **Assign** response preparation to appropriate personnel
+4. **Gather** additional evidence as needed
+:::
+
+## Preparing the Response
+
+### When a Response is Required
+
+You may need to respond to:
+
+- Findings of non-compliance
+- Requests for additional information
+- Recommendations for follow-up
+
+### Response Contents
+
+If required, the Response should:
+
+- Address each finding specifically
+- Provide additional evidence
+- Document actions taken since the visit
+- Demonstrate commitment to resolution
+
+### Response Deadline
+
+::: {.callout-important}
+## Deadline
+The Response is due **5 months after the On-Site Visit**
+:::
+
+## Board of Trustees Action
+
+### Board Review Process
+
+1. Response (if any) is reviewed
+2. Committee on Compliance & Reports reviews case
+3. Recommendation made to full Board
+4. Board of Trustees takes action
+
+### Possible Actions
+
+| Action | Meaning |
+|--------|---------|
+| **Reaffirmation** | Accreditation continued; 10-year cycle |
+| **Continued Accreditation** | Accreditation continued with monitoring requirements |
+| **Warning** | Significant concerns requiring action |
+| **Probation** | Serious concerns requiring immediate action |
+| **Denial/Removal** | Most serious outcome (rare) |
+
+## Notification and Communication
+
+### Receiving Notification
+
+- Official notification from SACSCOC President
+- Letter details action and any requirements
+
+### Communicating Results
+
+::: {.callout-tip}
+## Communication Plan
+
+1. **Inform Board of Trustees** immediately
+2. **Brief campus leadership**
+3. **Notify campus community**
+4. **Update website** with accurate accreditation status
+5. **Prepare public communications** as appropriate
+:::
+
+## Post-Decision Requirements
+
+### If Reaffirmed
+
+- Update accreditation language as needed
+- Continue annual reporting
+- Plan for Fifth-Year Interim Report
+- Implement and assess QEP
+
+### If Monitoring Required
+
+- Prepare required reports by deadlines
+- Address specific concerns identified
+- Document improvements
+- Submit progress reports as required
+
+## Fifth-Year Interim Report
+
+At the midpoint of the 10-year cycle, institutions submit a Fifth-Year Interim Report addressing:
+
+- Progress on any monitoring requirements
+- Selected standards review
+- QEP Impact Report
+- Financial information
+- Substantive changes
+
+---
+
+## Congratulations!
+
+Successful completion of reaffirmation is a significant institutional achievement. It reflects the hard work of the entire campus community in demonstrating quality and compliance with SACSCOC Standards.
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`

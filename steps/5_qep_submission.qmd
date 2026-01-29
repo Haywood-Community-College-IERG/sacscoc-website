@@ -1,0 +1,120 @@
+---
+title: "Step 5: QEP Submission"
+---
+
+# Step 5: QEP Submission
+
+The Quality Enhancement Plan (QEP) is a required component focusing on improving student learning or student success.
+
+## Timeline
+
+**When:** Due T-7 months (6 weeks before On-Site Visit)
+
+## Purpose
+
+The QEP:
+
+- Demonstrates institutional capacity for improvement
+- Focuses resources on a specific initiative
+- Addresses student learning outcomes and/or student success
+- Shows broad-based involvement in planning
+
+## QEP Requirements
+
+::: {.callout-important}
+## Key Requirements
+
+- Topic derived from **ongoing planning and assessment**
+- **Broad-based support** from campus community
+- Focus on **student learning outcomes and/or student success**
+- Adequate **resources committed**
+- **Assessment plan** with measurable outcomes
+- Maximum **75 pages** narrative + **25 pages** appendices
+:::
+
+## QEP Development Process
+
+### Topic Selection (T-28 to T-20 months)
+
+1. Review institutional assessment data
+2. Identify areas for improvement
+3. Engage campus community in discussion
+4. Select topic based on institutional priorities
+5. Document selection process
+
+### Committee Formation
+
+Form a broad-based QEP Development Committee:
+
+- Faculty representatives (multiple disciplines)
+- Student services staff
+- Students
+- Administrative support
+- Assessment expertise
+
+### Document Development (T-20 to T-10 months)
+
+1. Draft student learning outcomes or success metrics
+2. Develop implementation plan
+3. Create assessment plan
+4. Determine resource needs
+5. Build timeline
+6. Gather stakeholder input
+7. Revise based on feedback
+
+## QEP Components
+
+### Required Elements
+
+| Component | Description |
+|-----------|-------------|
+| Topic | Clear statement of focus area |
+| Connection to Planning | How topic emerged from assessment |
+| Broad-Based Support | Documentation of involvement |
+| Goals and Outcomes | Measurable student learning or success outcomes |
+| Literature Review | Foundation in research/best practices |
+| Actions to Implement | Specific activities and timeline |
+| Resources | Budget, personnel, facilities committed |
+| Assessment Plan | How outcomes will be measured |
+| Timeline | Implementation schedule |
+
+## Campus Awareness
+
+::: {.callout-tip}
+## QEP Awareness Campaign
+
+Before the On-Site Visit, ensure all employees can:
+
+- State the QEP topic
+- Explain how it affects their area
+- Describe their role (if any)
+
+Committee members will ask anyone about the QEP!
+:::
+
+## Submission
+
+### Simultaneous Submissions (T-7 months)
+
+- Quality Enhancement Plan
+- Focused Report (if applicable)
+- Updated Institutional Summary Form
+
+### Before Submitting
+
+- [ ] Within page limits
+- [ ] All required sections included
+- [ ] Student outcomes clearly measurable
+- [ ] Resources clearly committed
+- [ ] Assessment plan complete
+- [ ] Broad-based support documented
+
+## Next Step
+
+After submission, proceed to [Step 6: On-Site Visit](6_onsite_visit.qmd).
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`

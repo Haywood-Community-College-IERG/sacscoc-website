@@ -1,0 +1,114 @@
+---
+title: "Step 1: Form Leadership Team"
+---
+
+# Step 1: Form Leadership Team
+
+The first step in reaffirmation preparation is forming a Leadership Team to coordinate the process.
+
+## Timeline
+
+**When:** T-36 months (approximately 3 years before Board action)
+
+## Purpose
+
+The Leadership Team is responsible for:
+
+- Managing the institution's self-assessment process
+- Attending the SACSCOC Orientation Meeting
+- Coordinating completion of the Compliance Certification
+- Overseeing QEP development
+- Ensuring adequate resources and support
+
+## Team Composition
+
+::: {.callout-important}
+## Size Limitation
+The Orientation Meeting limits attendance to **5 institutional representatives**, including the chief finance officer. Choose team members strategically.
+:::
+
+### Recommended Members
+
+| Role | Rationale |
+|------|-----------|
+| President/CEO | Ultimate accountability; board liaison |
+| Accreditation Liaison | Primary coordinator; SACSCOC contact |
+| VP Academic Affairs | Academic standards; faculty oversight |
+| VP Student Services | Student-related standards |
+| VP Finance/Business | Financial standards; resource allocation |
+
+### Supporting Team (Not at Orientation)
+
+Additional members who support the effort but may not attend Orientation:
+
+- IE/Assessment Director
+- HR Director
+- IT Director
+- Library Director
+- QEP Director (once identified)
+- Faculty representatives
+
+## Roles and Responsibilities
+
+### President/CEO
+
+- Ensure board awareness and support
+- Allocate adequate resources
+- Ensure integrity throughout the process
+- Lead the institution's commitment
+
+### Accreditation Liaison
+
+- Serve as primary SACSCOC contact
+- Coordinate all submissions
+- Manage timelines and deadlines
+- Monitor substantive changes
+- Coordinate standard assignments
+
+### VP Academic Affairs
+
+- Oversee academic standards (Sections 6, 8, 9, 10)
+- Coordinate faculty involvement
+- Manage curriculum-related documentation
+
+### VP Student Services
+
+- Oversee student services standards (Section 12)
+- Coordinate student involvement
+- Manage student-related documentation
+
+### VP Finance/Business
+
+- Oversee financial standards (Section 13)
+- Prepare financial documentation
+- Ensure audit readiness
+
+## First Steps
+
+::: {.callout-tip}
+## Getting Started
+
+1. **Identify team members** based on institutional structure
+2. **Define roles clearly** with written responsibilities
+3. **Establish meeting schedule** (monthly or more frequent)
+4. **Secure resources** (release time, budget, support staff)
+5. **Begin reviewing** official SACSCOC documents
+:::
+
+## Resources Needed
+
+- Access to SACSCOC publications
+- Time for team meetings and work
+- Administrative support
+- Documentation system
+- Budget for travel (Orientation Meeting)
+
+## Next Step
+
+Once the Leadership Team is formed, proceed to [Step 2: Orientation Meeting](2_orientation.qmd).
+
+---
+
+## Sources Consulted
+
+- `Resources/Handbook for Institutions seeking reaffirmation.pdf`

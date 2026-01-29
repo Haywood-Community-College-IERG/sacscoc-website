@@ -1,0 +1,27 @@
+# Quarto rendered output
+_site/
+_freeze/
+.quarto/
+
+# R related
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+rv/library
+renv/library
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/

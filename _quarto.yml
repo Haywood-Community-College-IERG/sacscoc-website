@@ -1,0 +1,96 @@
+project:
+  type: website
+  output-dir: _site
+
+filters:
+  - quarto
+
+website:
+  title: "SACSCOC Reaffirmation Resources"
+  
+  open-graph: true
+  
+  favicon: /images/favicon.png
+  
+  back-to-top-navigation: true
+  reader-mode: true
+
+  navbar:
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Timeline"
+        href: timeline.qmd
+
+      - text: "Process Steps"
+        menu:
+        - text: "Step 1. Form Leadership Team"
+          href: steps/1_leadership_team.qmd
+        - text: "Step 2. Orientation Meeting"
+          href: steps/2_orientation.qmd
+        - text: "Step 3. Compliance Certification"
+          href: steps/3_compliance_certification.qmd
+        - text: "Step 4. Off-Site Review"
+          href: steps/4_offsite_review.qmd
+        - text: "Step 5. QEP Submission"
+          href: steps/5_qep_submission.qmd
+        - text: "Step 6. On-Site Visit"
+          href: steps/6_onsite_visit.qmd
+        - text: "Step 7. Response & Board Action"
+          href: steps/7_response_board.qmd
+
+      - text: "Standards"
+        menu:
+          - text: "Standards Index"
+            href: standards/index.qmd
+          - text: "---"
+          - text: "Section 1: Integrity"
+            href: standards/section1.qmd
+          - text: "Section 2: Mission"
+            href: standards/section2.qmd
+          - text: "Section 3: Basic Eligibility"
+            href: standards/section3.qmd
+          - text: "Section 4: Governing Board"
+            href: standards/section4.qmd
+          - text: "Section 5: Administration"
+            href: standards/section5.qmd
+          - text: "Section 6: Faculty"
+            href: standards/section6.qmd
+          - text: "Section 7: Planning & Effectiveness"
+            href: standards/section7.qmd
+          - text: "Section 8: Student Achievement"
+            href: standards/section8.qmd
+          - text: "Section 9: Program Structure"
+            href: standards/section9.qmd
+          - text: "Section 10: Policies & Practices"
+            href: standards/section10.qmd
+          - text: "Section 11: Library Resources"
+            href: standards/section11.qmd
+          - text: "Section 12: Student Services"
+            href: standards/section12.qmd
+          - text: "Section 13: Financial Resources"
+            href: standards/section13.qmd
+          - text: "Section 14: Transparency"
+            href: standards/section14.qmd
+          
+      - text: "Resources"
+        href: resources.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Suggesting Changes"
+        href: suggesting-changes.qmd
+
+    right:
+      - icon: github
+        menu:
+          - text: "View the Source"
+            href: "#"
+          - text: "Suggest a Change"
+            href: "#"
+
+format:
+  html:
+    theme: [cosmo, assets/custom_theme.scss]
+    toc: true
+    smooth-scroll: true

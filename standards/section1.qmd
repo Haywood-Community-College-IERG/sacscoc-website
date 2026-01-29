@@ -1,0 +1,61 @@
+---
+title: "Section 1: The Principle of Integrity"
+---
+
+# Section 1: The Principle of Integrity
+
+Section 1 contains a single standard that is foundational to the entire accreditation process.
+
+## Standard 1.1 — Integrity [CR] {.core-requirement}
+
+::: {.callout-important}
+## Core Requirement
+This is a Core Requirement — one of the most fundamental aspects of institutional quality.
+:::
+
+### What SACSCOC is Trying to Ensure
+
+The institution operates with integrity in all matters. This principle underlies all other standards and expectations.
+
+### Special Note
+
+::: {.callout-note}
+## Not Addressed in Compliance Certification
+Standard 1.1 is NOT addressed through a narrative in the Compliance Certification. Instead, institutional integrity is evaluated through:
+
+- Conduct throughout the accreditation process
+- Accuracy of information provided
+- Ethical behavior in all institutional operations
+- Proper handling of substantive changes
+- Accurate representation of accreditation status
+:::
+
+### How Integrity is Demonstrated
+
+- **Honest reporting** in all submissions
+- **Ethical behavior** in institutional operations
+- **Timely disclosure** of substantive changes
+- **Good faith engagement** with the accreditation process
+- **Accurate representation** of accreditation status to the public
+
+### Common Concerns
+
+| Issue | Impact |
+|-------|--------|
+| Submitting inaccurate or misleading information | Integrity finding |
+| Failing to report substantive changes | Policy violation |
+| Misrepresenting accreditation status | Public trust violation |
+| Withholding information from evaluators | Process violation |
+
+### Reflective Prompts
+
+- How do we ensure accuracy in all our SACSCOC submissions?
+- Do we have a process for identifying and reporting substantive changes?
+- Is our accreditation status accurately stated on our website and publications?
+- How do we demonstrate good faith throughout the accreditation process?
+
+---
+
+## Sources Consulted
+
+- `Resources/2024 Principles of Accreditation (Apr 2024).pdf`
